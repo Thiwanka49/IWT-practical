@@ -1,0 +1,63 @@
+body
+{
+background-image:url("../images/bg.jpg");
+}
+.logo
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1
+{
+	font-family:Arial, Helvetica, scan-serif;
+	font-size: 40 px;
+}
+.line1
+{
+	border-top:1px solid black;
+}
+ul.nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li.list{
+  float: left;
+}
+
+li.list{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li.list:hover {
+  background-color: #111;
+}
+.productData
+{
+	background-color:#FFFFFF;
+	padding: 3px;
+}
+.coll
+{
+	text-align:center;
+}
+div.tbl
+{
+	margin-top: 15px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+table.tb
+{
+	border-style:groove;
+	border-color:blue;
+}	
