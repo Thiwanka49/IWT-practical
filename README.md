@@ -33,3 +33,16 @@ A web application built using HTML, CSS, JavaScript, and PHP, developed with Not
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+2. **Move to XAMPP Directory**:
+
+Copy the cloned project folder to C:\xampp\htdocs (Windows) or the appropriate htdocs directory for your OS.
+
+3. **Start XAMPP Services**:
+
+Launch XAMPP and start the Apache and MySQL servers.
+
+4.**Access the Project**:
+
+Open a browser and navigate to http://localhost/your-project-folder.
+
+
