@@ -41,7 +41,7 @@ Copy the cloned project folder to C:\xampp\htdocs (Windows) or the appropriate h
 
 Launch XAMPP and start the Apache and MySQL servers.
 
-4.**Access the Project**:
+4. **Access the Project**:
 
 Open a browser and navigate to http://localhost/your-project-folder.
 
